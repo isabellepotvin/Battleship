@@ -1,0 +1,9 @@
+﻿  player.cpp
+  main.cpp
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a4_battleship\potvin_isabelle_a4_battleship\main.cpp(39): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a4_battleship\potvin_isabelle_a4_battleship\main.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a4_battleship\potvin_isabelle_a4_battleship\main.cpp(636): warning C4018: '<': signed/unsigned mismatch
+  boat.cpp
+  Generating Code...
+  Potvin_Isabelle_A4_Battleship.vcxproj -> C:\Users\isabe\Documents\Personal\Carleton\Y2S1\Programming\Potvin_Isabelle_A4_Battleship\Debug\Potvin_Isabelle_A4_Battleship.exe
+  Potvin_Isabelle_A4_Battleship.vcxproj -> C:\Users\isabe\Documents\Personal\Carleton\Y2S1\Programming\Potvin_Isabelle_A4_Battleship\Debug\Potvin_Isabelle_A4_Battleship.pdb (Partial PDB)
